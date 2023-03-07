@@ -14,7 +14,7 @@ Currently, there are a few things that I need to work on to bring Sally to life.
 - refine the design further
 
 Tools:
-- Keyboard Layout Editor
+- Keyboard Layout Editor http://www.keyboard-layout-editor.com/
 - 3D render https://eswai.github.io/KL3V/kl3v.html
 - Keyboard generator that may be handy for creating plates and PCBs https://github.com/benvallack/ergogen / https://ergogen.cache.works/
 
