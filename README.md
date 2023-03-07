@@ -7,6 +7,15 @@ At this stage, I have created a keyboard layout that consists of 59 keys (includ
 ![Sally Keyboard Layout](https://user-images.githubusercontent.com/40144136/223379462-f6586ba8-1d01-4d36-bab9-06dce2199b98.png)
 
 
-Currently, there are a few things that I need to work on to bring Sally to life. Specifically, I need to decide whether to use a custom PCB or handwiring with microcontrollers. I also need to create a plate (for Cherry MX switches) and a case (ideally with tilt support). Once these components are ready, I can create a prototype and refine the design further.
+Currently, there are a few things that I need to work on to bring Sally to life. Specifically, I need to:
+- decide whether to use a custom PCB or handwiring with microcontrollers
+- create a plate (for Cherry MX switches) and a case (ideally with tilt support)
+- create a prototype 
+- refine the design further
+
+Tools:
+- Keyboard Layout Editor
+- 3D render https://eswai.github.io/KL3V/kl3v.html
+- Keyboard generator that may be handy for creating plates and PCBs https://github.com/benvallack/ergogen / https://ergogen.cache.works/
 
 If you are interested in Sally - feel free to help me out!
