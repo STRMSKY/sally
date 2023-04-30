@@ -19,14 +19,19 @@ You can recreate it and modify by pasting ![KLE code](https://github.com/STRMSKY
 
 ## Casing
 My first idea was to have laser cut casing:
+![Sally Lasercut Casing](https://github.com/STRMSKY/sally/blob/main/render_lasercut_casing.jpg)
 
 This design had few major flaws:
 - need for sanding edges so casing won't cut your skin
 - cost (1 part layers)
 - stability (multiple part layer)
-Eventually I simplified the design and adjusted it for 3D printing:
 
-Files for both casings are (going to be) available in this repo.
+Eventually I simplified the design and adjusted it for 3D printing:
+![Sally 3D Printed Casing](https://github.com/STRMSKY/sally/blob/main/3d_printed_casing.jpg)
+![Sally 3D Printed Casing Render](https://github.com/STRMSKY/sally/blob/main/render_3d_printed_casing.png)
+![Sally 3D Printed Casing + Stands Render](https://github.com/STRMSKY/sally/blob/main/render_3d_printed_casing_with_stand.png)
+
+Files are (going to be) available in this repo.
 
 
 ## Wiring
