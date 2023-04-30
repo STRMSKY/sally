@@ -1,4 +1,6 @@
-# Sally: A Split Alice-Like Layout Keyboard
+# Sally: Split Alice-Like Layout Keyboard
+
+![](https://github.com/STRMSKY/sally/blob/main/sally_prototype.jpg)
 
 Sally is a personalized keyboard that I designed to meet my specific needs. It features: 
 - physically split layout
@@ -10,7 +12,9 @@ Sally is a personalized keyboard that I designed to meet my specific needs. It f
 
 ## Keyboard layout
 My inspiration was Alice Keyboard. It consists of 59 keys (57 x 1u + 2 x 1.5u).
+
 You can recreate it and modify by pasting ![KLE code](https://github.com/STRMSKY/sally/blob/main/sally_2_halves_raw_kle) to ![Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
+
 ![Sally Keyboard Layout](https://user-images.githubusercontent.com/40144136/223379462-f6586ba8-1d01-4d36-bab9-06dce2199b98.png)
 
 ## Casing
@@ -32,7 +36,9 @@ To be described.
 ## Firmware
 Working on it.
 
-Tools:
+## Tools
 - Keyboard Layout Editor http://www.keyboard-layout-editor.com/
 - 3D render preview https://eswai.github.io/KL3V/kl3v.html
 - Fusion360 for 3D design
+- QMK Firmware for programming
+
